@@ -1,0 +1,3 @@
+1001,Aryan,male,20,830670
+1002,Vedant,Male,20,830554
+1003,Atharva,male,20,86045
